@@ -27,6 +27,7 @@ O principal objetivo deste projeto é identificar padrões de uso e regiões com
 
 - **Google BigQuery** – Acesso e consulta a dados públicos de viagens de bike em NYC;
 - **SQL** – Consultas realizadas diretamente no BigQuery.
+- **LookerStudio** - Visualização do dados
 
 ---
 
